@@ -1,8 +1,4 @@
 {
-  "presets": ["env"],
-  "plugins": [
-    "transform-object-rest-spread",
-    "transform-react-jsx",
-    "transform-runtime"
-  ]
+  "presets": ["@babel/env"],
+  "plugins": ["@babel/plugin-transform-runtime","dynamic-import-node","@babel/transform-react-jsx"]
 }
