@@ -95,7 +95,7 @@ class Player extends Component {
 
     fetchDataFromRssFeed(url) {
         this.setState({ isLoading: true });
-        const proxyurl = "https://cors-anywhere.herokuapp.com/";
+        const proxyurl = ""; "https://cors-anywhere.herokuapp.com/";
         (async () => {
             let feed = await this.rssParser.parseURL(proxyurl + url);
 
