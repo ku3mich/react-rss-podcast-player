@@ -7,8 +7,7 @@ import { TiMediaPlay,
          TiMediaRewind
         } from 'react-icons/ti';
 
-import './styles/styles.css';
-
+// import './styles/styles.css';
 
 class PlayerControls extends Component {
   render() {

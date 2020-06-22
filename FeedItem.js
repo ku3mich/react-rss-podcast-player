@@ -27,7 +27,7 @@ var react_1 = __importStar(require("react"));
 var moment_1 = __importDefault(require("moment"));
 // import icons
 var ti_1 = require("react-icons/ti");
-require("./styles/styles.css");
+// import './styles/styles.css';
 var FeedItem = /** @class */ (function (_super) {
     __extends(FeedItem, _super);
     function FeedItem(props) {

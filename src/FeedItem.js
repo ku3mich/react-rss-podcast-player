@@ -4,7 +4,7 @@ import moment from 'moment';
 // import icons
 import { TiMediaPlay, TiMediaPause } from 'react-icons/ti';
 
-import './styles/styles.css';
+// import './styles/styles.css';
 
 class FeedItem extends Component {
   constructor(props) {

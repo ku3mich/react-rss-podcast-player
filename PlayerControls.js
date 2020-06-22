@@ -23,7 +23,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var react_1 = __importStar(require("react"));
 // import icons
 var ti_1 = require("react-icons/ti");
-require("./styles/styles.css");
+// import './styles/styles.css';
 var PlayerControls = /** @class */ (function (_super) {
     __extends(PlayerControls, _super);
     function PlayerControls() {
