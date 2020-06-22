@@ -1,6 +1,7 @@
 import React from "react";
 import Player from "../src/Player";
 import ReactDOM from "react-dom";
+import "../src/styles.css";
 
 const App = () => {
     return (

@@ -1,6 +1,6 @@
 {
     "name": "@niumyz/react-rss-podcast-player",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "This is a react component that provides a podcast player based on an RSS feed you provide it.",
     "main": "build/index.js",
     "peerDependencies": {
