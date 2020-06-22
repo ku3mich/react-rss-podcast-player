@@ -63,7 +63,7 @@ var react_1 = __importStar(require("react"));
 // import Components
 var FeedItem_1 = __importDefault(require("./FeedItem"));
 var PlayerControls_1 = __importDefault(require("./PlayerControls"));
-require("./styles/styles.css");
+// import "./styles/styles.css";
 // Instantiate RSS-Parser to convert RSS feeds into JSON.
 var RSSParser = require("rss-parser");
 var Player = /** @class */ (function (_super) {

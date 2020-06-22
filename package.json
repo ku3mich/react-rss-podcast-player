@@ -1,6 +1,6 @@
 {
     "name": "@niumyz/react-rss-podcast-player",
-    "version": "2.0.3",
+    "version": "2.0.5",
     "description": "This is a react component that provides a podcast player based on an RSS feed you provide it.",
     "main": "build/index.js",
     "peerDependencies": {
@@ -38,6 +38,7 @@
         "@babel/plugin-transform-runtime": "^7.10.3",
         "@babel/preset-env": "^7.10.3",
         "@babel/preset-react": "^7.10.1",
+        "@niumyz/react-rss-podcast-player": "2.0.3",
         "@types/react": "^16.9.38",
         "@types/xml2js": "^0.4.5",
         "@webpack-cli/serve": "^0.2.0",

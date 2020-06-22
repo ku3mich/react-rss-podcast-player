@@ -63,5 +63,5 @@
         /* Advanced Options */
         "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
     },
-    "exclude": ["test-app.js", "src/__tests__", "**/*.spec.ts", "./index.js", "./setupTests.js", "webpack.config.js", "build/", "test-app"]
+    "exclude": ["test-app/**/*.js", "src/__tests__", "./setupTests.js", "webpack.config.js", "build/"]
 }
